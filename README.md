@@ -6,19 +6,17 @@ As big of a news these issues are, there is a serious lack of playgrounds for ho
 
 NotSoCereal is an exploitation playground for Deserialization issues and at this point it contains issues in Java, PHP, and Python. We are working on bringing more languages to the fold.
 
----
-# [Download VM Here](#link_to_update)
----
-# [Deployment Guide](./Resources/Deployment/deployment.md)
----
-# Answersheet 
+## Deployment
+- [Download Virtual Machine](#link_to_update)
+- [Deployment Guide](./Resources/Deployment/deployment.md)
+## Answersheet 
 
 - [Java Deserialization](./Resources/Java_Challenge/java_deserialization.md)
 - [PHP Deserialization](./Resources/PHP_Challenge/php_deserialization.md)
 - [Python Deserialization](./Resources/Python_Challenge/python_deserialization.md)
 - [Node Deserialization](./Resources/Node_Challenge/node_deserialization.md)
 
-# Contributors
+## Contributors
 
 Author : Rohit Salecha
 
