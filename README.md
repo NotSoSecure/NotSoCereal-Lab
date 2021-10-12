@@ -2,7 +2,7 @@
 
 Deserialization issues are the newest trend in Information Security. They rose to fame with the infamous Java deserialization bugs, however, the issues are not just limited to one language. Serialization and Deserialization are common actions and are performed by almost all modern languages.
 
-As big of a news these issues are, there is a serious lack of playgrounds for honing your skill in such topics. This is where NotSoCereal comes into picture.
+As big of a news as these issues are, there is a serious lack of playgrounds for honing your skill in such topics. This is where NotSoCereal comes into picture.
 
 NotSoCereal is an exploitation playground for Deserialization issues and at this point it contains issues in Java, PHP, and Python. We are working on bringing more languages to the fold.
 

