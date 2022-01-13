@@ -19,10 +19,12 @@ NotSoCereal is an exploitation playground for Deserialization issues and at this
 
 ## Contributors
 
-Author : Rohit Salecha
+- **Author**
+	- Sanjay Gondaliya
 
-Contributor
-	Savan Gadhiya
-	Vivek Mahajan
-	Abeer Banerjee
-	Anant Shrivastava
+- **Contributor**
+	- Rohit Salecha
+	- Savan Gadhiya
+	- Vivek Mahajan
+	- Abeer Banerjee
+	- Anant Shrivastava
