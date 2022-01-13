@@ -7,7 +7,8 @@ As big of a news as these issues are, there is a serious lack of playgrounds for
 NotSoCereal is an exploitation playground for Deserialization issues and at this point it contains issues in Java, PHP, and Python. We are working on bringing more languages to the fold.
 
 ## Deployment
-- [Download Virtual Machine](#link_to_update)
+- [Download Virtual Machine](https://binary.notsosecure.com/NotSoCereal_2022.ova)
+	- SHA256: 815B8A014F999465E790F242A786D7FC19E48B0C7826A6462A8FA562FDAFD549
 - [Deployment Guide](./Resources/Deployment/deployment.md)
 ## Answersheet 
 
